@@ -152,7 +152,7 @@
 
             bindings = <
                   &kp EXCL   &kp AT         &kp HASH       &kp DOLLAR                      &kp PERCENT    &next_tab  &win_screen  &none             &win_top    &none
-                  &kp CARET  &kp AMPS       &kp STAR       &kp MINUS                       &kp EQUAL      &prev_tab  &win_left    &win_full         &win_btm    &win_right
+                  &kp CARET  &kp AMPS       &kp STAR       &kp SQT                         &kp LS(SQT)    &prev_tab  &win_left    &win_full         &win_btm    &win_right
 &kp LA(NUMBER_3)  &none      &mt RBRC LBRC  &mt RPAR LPAR  &mt RIGHT_BRACKET LEFT_BRACKET  &none          &none      &kp K_PREV   &kp K_PLAY_PAUSE  &kp K_STOP  &kp K_NEXT  &kp K_MUTE
                                             &trans         &trans                          &trans         &mo 0      &kp KP_N0    &trans
             >;
