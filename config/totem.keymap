@@ -201,10 +201,10 @@
 
         arrow {
             bindings = <
-       &none  &none  &none  &none  &none    &none  &none     &none   &none     &none
-       &none  &none  &none  &none  &none    &none  &kp LEFT  &kp UP  &kp DOWN  &kp RIGHT
-&none  &none  &none  &none  &none  &none    &none  &none     &none   &none     &none      &none
-                     &none  &none  &none    &none  &none     &none
+       &none   &none   &none   &none   &none    &none  &none     &none   &none     &none
+       &trans  &trans  &trans  &trans  &none    &none  &kp LEFT  &kp UP  &kp DOWN  &kp RIGHT
+&none  &none   &none   &none   &none   &none    &none  &none     &none   &none     &none      &none
+                       &none   &none   &none    &none  &none     &none
             >;
         };
     };
